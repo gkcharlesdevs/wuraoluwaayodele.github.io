@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.transitionsfvs.org	TRUE	/	FALSE	1999999999	crumb	BcRYp6Y2fpFhMTNhYjU4NjM1N2JmZTQ4YzIzNjhiNGIxYWUyMmFh
+paypal.com	TRUE	/	FALSE	1999999999	ts	vreXpYrS%3D1760912561%26vteXpYrS%3D1666219961%26vr%3Df25774ae1830ad00984d5129fd192c49%26vt%3Df25774ae1830ad00984d5129fd192c48%26vtyp%3Dnew
+paypal.com	TRUE	/	FALSE	1999999999	ts_c	vr%3Df25774ae1830ad00984d5129fd192c49%26vt%3Df25774ae1830ad00984d5129fd192c48
+

@@ -1,0 +1,27 @@
+HTTrack3.49-2 launched on Wed, 19 Oct 2022 23:17:58 at https://www.transitionsfvs.org/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/*
+(webhttrack -q -%i -w https://www.transitionsfvs.org/ -O "/home/george/websites/shdh" -n -%P -N0 -s2 -p7 -D -a -K0 -c4 -%k -A25000 -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -%s -%u )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+23:24:04	Error: 	"Not Found" (404) at link https://www.transitionsfvs.org/volunteer (from https://www.transitionsfvs.org/)
+23:24:53	Error: 	"Not Found" (404) at link https://www.transitionsfvs.org/events/Adopt-a-Family (from https://www.transitionsfvs.org/events/adoptafamily)
+23:26:51	Error: 	"" (404) at link https://www.transitionsfvs.org/volunteer (from https://www.transitionsfvs.org/)
+23:26:51	Warning: 	HTML file (60806 bytes) retransferred due to lack of cache: https://www.transitionsfvs.org/events/2022/10/22/fast-amp-funky-5k-runwalk
+23:26:53	Warning: 	HTML file (62605 bytes) retransferred due to lack of cache: https://www.transitionsfvs.org/events/2018/10/29/remember-my-name-2018
+23:26:55	Warning: 	HTML file (60647 bytes) retransferred due to lack of cache: https://www.transitionsfvs.org/events/adoptafamily
+23:26:58	Warning: 	HTML file (61424 bytes) retransferred due to lack of cache: https://www.transitionsfvs.org/events/2018/7/27/5k-runwalk
+23:27:00	Warning: 	HTML file (66718 bytes) retransferred due to lack of cache: https://www.transitionsfvs.org/events/2018/4/21/casino-night-a-masquerade-ball
+23:27:02	Warning: 	HTML file (63501 bytes) retransferred due to lack of cache: https://www.transitionsfvs.org/events/2018/2/21/donation-day
+23:27:04	Warning: 	HTML file (63817 bytes) retransferred due to lack of cache: https://www.transitionsfvs.org/events/2018/2/12/womens-support-group-9sw96
+23:27:08	Warning: 	HTML file (63827 bytes) retransferred due to lack of cache: https://www.transitionsfvs.org/events/2018/2/12/womens-support-group-at2k6
+23:27:16	Warning: 	HTML file (63502 bytes) retransferred due to lack of cache: https://www.transitionsfvs.org/events/2018/2/12/womens-support-group
+23:27:24	Error: 	"" (404) at link https://www.transitionsfvs.org/events/Adopt-a-Family (from https://www.transitionsfvs.org/events/adoptafamily)
+23:27:24	Error: 	"Not Found" (404) at link https://www.transitionsfvs.org/c (from https://connect.facebook.net/en_US/fbevents.js)
+23:27:24	Error: 	"Not Found" (404) at link https://www.transitionsfvs.org/b (from https://connect.facebook.net/en_US/fbevents.js)
+23:27:24	Error: 	"Not Found" (404) at link https://www.transitionsfvs.org/POST (from https://connect.facebook.net/en_US/fbevents.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 9 minutes 26 seconds : 156 links scanned, 176 files written (27502060 bytes overall) [18601600 bytes received at 32865 bytes/sec], 12737736 bytes transferred using HTTP compression in 64 files, ratio 27%, 1.7 requests per connection
+(7 errors, 9 warnings, 0 messages)

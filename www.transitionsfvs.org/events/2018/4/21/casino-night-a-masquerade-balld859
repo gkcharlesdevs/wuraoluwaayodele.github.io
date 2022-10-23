@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Squarespace Inc/Squarespace 6//v6//EN
+BEGIN:VEVENT
+UID:5a6bb23fe4966b51475ed07a@squarespace.com
+DTSTAMP:20180330T194638Z
+DTSTART:20180421T230000Z
+DTEND:20180422T030000Z
+SUMMARY:3rd Annual Champions Unmasking Domestic Violence: A Masquerade and 
+ Casino Ball
+GEO:37.087017;-76.470638
+LOCATION:Newport News Marriot at City Center\, 740 Town Center Drive\, Newp
+ ort News\, VA\, 23606\, United States
+END:VEVENT
+END:VCALENDAR
